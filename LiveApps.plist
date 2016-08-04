@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>AppName</key>
+		<string>Find The Gap</string>
+		<key>AppIcon</key>
+		<string>findthegap.png</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Money Rain</string>
+		<key>AppIcon</key>
+		<string>moneyrain.png</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Wasp Wacker</string>
+		<key>AppIcon</key>
+		<string>waspwacker.png</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Wacker Plus</string>
+		<key>AppIcon</key>
+		<string>wackerplus.png</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Pop7</string>
+		<key>AppIcon</key>
+		<string>pop7.png</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>1000 Suns</string>
+		<key>AppIcon</key>
+		<string>1000suns.png</string>
+	</dict>
+</array>
+</plist>
